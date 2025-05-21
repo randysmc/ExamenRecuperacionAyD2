@@ -1,5 +1,10 @@
 package org.example.Refactor.strategy;
 
+
+/*
+* LO MISMO PARA TRIANGULO, IMPLEMENTA DE SHAPESTRATEGY
+*
+* */
 public class TriangleStrategy implements ShapeStrategy {
 
     @Override

@@ -1,5 +1,10 @@
 package org.example.Refactor;
 
+
+/*
+* AQUI UTILIZAMOS BUILDER PORQUE NOS PERMITE PODER CREAR OBJETOS DE MANERA DINAMICA
+* CUANDO TENEMOS MUCHOS ATRIBUTOS
+* */
 public class User {
     private final String name;
     private final String email;

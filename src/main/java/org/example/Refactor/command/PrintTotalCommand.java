@@ -8,4 +8,9 @@ public class PrintTotalCommand implements  PrintCommand{
     public void execute() {
         System.out.println("Total: $" + total);
     }
+
+    @Override
+    public void undo() {
+
+    }
 }

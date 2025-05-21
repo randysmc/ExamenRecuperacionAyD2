@@ -1,5 +1,9 @@
 package org.example.Refactor.strategy;
 
+
+/*
+* IMPLEMENTA DE SHAPESTRATEGY PARA PODER CALUCULAR SU PROPIA AREA
+* */
 public class RectangleStrategy implements ShapeStrategy{
 
     @Override
